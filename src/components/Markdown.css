@@ -1,0 +1,9 @@
+.preview {
+    background-color: black;
+    height: 90%;
+    width: 90%;
+    color: white;
+    border-radius: 20px;
+    border: 1px solid white;
+    padding: 20px;
+}
